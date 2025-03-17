@@ -40,6 +40,30 @@ AWSを使う開発やバックエンドが得意です
   - Amazon Amplify
   - Amazon Bedrock
 
+## 主なコミュニティ活動
+- JAWS DAYS 2025 実行委員(Web担当)
+  - https://jawsdays2025.jaws-ug.jp/staff/committee
+  - 登壇資料: https://speakerdeck.com/komakichi/jaws-days-2025noinhura 
+- JAWS-UG IoT専門支部 運営
+  - https://jawsug-iot.connpass.com/
+- JAWS-UG 千葉支部 運営
+  - https://jawsug-chiba.connpass.com/
+
+### 登壇歴
+|年月|登壇イベント|資料URL|
+|---|---|---|
+|2024/10|【JAWS-UG 神戸 #1】IoT × AWSでこんなの作ったよ！LT大会|https://speakerdeck.com/komakichi/amazon-bedrocktoiotde-shi-jia-qing-sisuwozu-ye-suru|
+|2024/10|JAWS FESTA 2024 in 広島 前夜祭|https://speakerdeck.com/komakichi/moushi-jia-nishou-qing-naqing-sisuniang-habu-yao-bedrockdemou-ren-noniang-wozuo-ru|
+|2024/08|Amazon CloudWatch入門＆LT会 みのるんのゲリラ勉強会＆インフラ技術基礎勉強会コラボ|https://speakerdeck.com/komakichi/cloudwatch-logs-insightsde-ding-qi-ye-wu-wosumatoni|
+|2024/07|Bedrock Night in 大阪（JAWS-UG AI/ML×大阪×東京支部コラボ）|https://speakerdeck.com/komakichi/awsnosheng-cheng-aihuo-yong-shi-li-ji-genuwoshi-idao-su|
+
+## 経歴
+TBD
+
+### その他
+- AWSのパートナー企業若手向けハッカソン Angel Dojo 2023 に参加
+  - 資料: https://speakerdeck.com/komakichi/angel-dojo-2023-zui-zhong-fa-biao
+  - https://www.youtube.com/watch?v=7XO1H5TMnnI
 
 ## 学歴
 |年月|学歴|
