@@ -49,7 +49,9 @@ AWSを使う開発やバックエンドが得意です
 
 ## 資格
 AWS資格はすべて取得済み
+
 Google Cloud資格もいくつか取得
+
 取得資格：https://www.credly.com/users/username.cf47acae
 
 その他
