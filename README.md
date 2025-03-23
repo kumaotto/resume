@@ -3,6 +3,7 @@
 <img src="/img/profile.png" alt="プロフィール画像" width="300">
 
 Web Developer 5年目
+
 AWSを使う開発やバックエンドが得意です
 
 ## 受賞歴
@@ -49,7 +50,7 @@ AWSを使う開発やバックエンドが得意です
 - JAWS-UG 千葉支部 運営
   - https://jawsug-chiba.connpass.com/
 
-### 登壇歴
+### 登壇歴(publicなもののみ)
 |年月|登壇イベント|資料URL|
 |---|---|---|
 |2024/10|【JAWS-UG 神戸 #1】IoT × AWSでこんなの作ったよ！LT大会|https://speakerdeck.com/komakichi/amazon-bedrocktoiotde-shi-jia-qing-sisuwozu-ye-suru|
@@ -58,7 +59,9 @@ AWSを使う開発やバックエンドが得意です
 |2024/07|Bedrock Night in 大阪（JAWS-UG AI/ML×大阪×東京支部コラボ）|https://speakerdeck.com/komakichi/awsnosheng-cheng-aihuo-yong-shi-li-ji-genuwoshi-idao-su|
 
 ## 経歴
-TBD
+|期間|企業|プロジェクト|
+|---|---|---|
+
 
 ### その他
 - AWSのパートナー企業若手向けハッカソン Angel Dojo 2023 に参加
