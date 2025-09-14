@@ -10,6 +10,7 @@ AWSを使う開発やバックエンドが得意です
 |受賞年月|受賞名|
 |---|---|
 |2025/03|[AWS Community Builder(AI Engineering)](https://aws.amazon.com/jp/developer/community/community-builders/)|
+|2025/06|[2025 Japan AWS Top Engineers (Services)](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)|
 
 ## 得意な技術スタック
 実務経験あり、かつその中でも使用歴が深いもの
