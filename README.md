@@ -2,21 +2,21 @@
 
 <img src="/img/profile.png" alt="プロフィール画像" width="300">
 
-Web Developer 5年目
-
 AWSを使う開発やバックエンドが得意です
 
 ## 受賞歴
 |受賞年月|受賞名|
 |---|---|
-|2025/03|[AWS Community Builder(AI Engineering)](https://builder.aws.com/community/@komakichi)|
+|2025/03〜現在|[AWS Community Builder(AI Engineering)](https://builder.aws.com/community/@komakichi)|
 |2025/06|[2025 Japan AWS Top Engineers (Services)](https://aws.amazon.com/jp/blogs/psa/2025-japan-aws-top-engineers/)|
+|2025/06|[2026 Japan AWS Top Engineers (Services)](https://aws.amazon.com/jp/blogs/psa/2026-japan-aws-top-engineers/)|
 
 ## 得意な技術スタック
 実務経験あり、かつその中でも使用歴が深いもの
 - データベース
   - MySQL
-- 言語(上から得意です)
+  - PostgreSQL
+- 言語
   - Python
   - JavaScript/TypeScript
   - PHP
@@ -45,10 +45,15 @@ AWSを使う開発やバックエンドが得意です
 ## 主なコミュニティ活動
 - JAWS DAYS 2025 実行委員(Web担当)
   - https://jawsdays2025.jaws-ug.jp/staff/committee
-  - 登壇資料: https://speakerdeck.com/komakichi/jaws-days-2025noinhura 
-- JAWS-UG IoT専門支部 運営
+  - 登壇資料: https://speakerdeck.com/komakichi/jaws-days-2025noinhura
+- JAWS DAYS 2025 実行委員(Web担当)
+  - https://jawsdays2026.jaws-ug.jp/staff/committee/
+  - 登壇資料: https://speakerdeck.com/komakichi/jaws-days-2026-re-cheers
+- JAWS SONIC & MIDNIGHT JAWS 2026 実行委員(Web担当)
+　- https://jawssonic2026.jaws-ug.jp/committee- 
+- JAWS-UG IoT専門支部 運営 2025~
   - https://jawsug-iot.connpass.com/
-- JAWS-UG 千葉支部 運営
+- JAWS-UG 千葉支部 運営 2025~
   - https://jawsug-chiba.connpass.com/
 
 ### 登壇歴(publicなもののみ)
@@ -58,10 +63,6 @@ AWSを使う開発やバックエンドが得意です
 |2024/10|JAWS FESTA 2024 in 広島 前夜祭|https://speakerdeck.com/komakichi/moushi-jia-nishou-qing-naqing-sisuniang-habu-yao-bedrockdemou-ren-noniang-wozuo-ru|
 |2024/08|Amazon CloudWatch入門＆LT会 みのるんのゲリラ勉強会＆インフラ技術基礎勉強会コラボ|https://speakerdeck.com/komakichi/cloudwatch-logs-insightsde-ding-qi-ye-wu-wosumatoni|
 |2024/07|Bedrock Night in 大阪（JAWS-UG AI/ML×大阪×東京支部コラボ）|https://speakerdeck.com/komakichi/awsnosheng-cheng-aihuo-yong-shi-li-ji-genuwoshi-idao-su|
-
-## 経歴
-|期間|企業|プロジェクト|
-|---|---|---|
 
 
 ### その他
