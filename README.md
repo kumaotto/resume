@@ -57,13 +57,17 @@ AWSを使う開発やバックエンドが得意です
   - https://jawsug-chiba.connpass.com/
 
 ### 登壇歴(publicなもののみ)
+※技術コミュニティでの技術関連のみ記載、他に関してはspeakerdeck参照
 |年月|登壇イベント|資料URL|
 |---|---|---|
-|2024/10|【JAWS-UG 神戸 #1】IoT × AWSでこんなの作ったよ！LT大会|https://speakerdeck.com/komakichi/amazon-bedrocktoiotde-shi-jia-qing-sisuwozu-ye-suru|
-|2024/10|JAWS FESTA 2024 in 広島 前夜祭|https://speakerdeck.com/komakichi/moushi-jia-nishou-qing-naqing-sisuniang-habu-yao-bedrockdemou-ren-noniang-wozuo-ru|
-|2024/08|Amazon CloudWatch入門＆LT会 みのるんのゲリラ勉強会＆インフラ技術基礎勉強会コラボ|https://speakerdeck.com/komakichi/cloudwatch-logs-insightsde-ding-qi-ye-wu-wosumatoni|
 |2024/07|Bedrock Night in 大阪（JAWS-UG AI/ML×大阪×東京支部コラボ）|https://speakerdeck.com/komakichi/awsnosheng-cheng-aihuo-yong-shi-li-ji-genuwoshi-idao-su|
-
+|2024/08|Amazon CloudWatch入門＆LT会 みのるんのゲリラ勉強会＆インフラ技術基礎勉強会コラボ|https://speakerdeck.com/komakichi/cloudwatch-logs-insightsde-ding-qi-ye-wu-wosumatoni|
+|2024/09|JAWS-UG朝会 #61|https://speakerdeck.com/komakichi/aws-samtox-rayde-lambdanochi-yan-woke-shi-hua|
+|2024/10|JAWS FESTA 2024 in 広島 前夜祭|https://speakerdeck.com/komakichi/moushi-jia-nishou-qing-naqing-sisuniang-habu-yao-bedrockdemou-ren-noniang-wozuo-ru|
+|2024/10|【JAWS-UG 神戸 #1】IoT × AWSでこんなの作ったよ！LT大会|https://speakerdeck.com/komakichi/amazon-bedrocktoiotde-shi-jia-qing-sisuwozu-ye-suru|
+|2025/04|Toranomon Tech Hub 第三回 技術異種格闘技戦〜好きな技術LT大会〜|https://speakerdeck.com/komakichi/toranomon-tech-hub-di-san-hui|
+|2025/07|JAWS-UG千葉支部 x 彩の国埼玉支部 LTバトル形式勉強会 〜目黒より愛をこめて〜|https://speakerdeck.com/komakichi/jaws-ugqian-xie-zhi-bu-x-cai-noguo-qi-yu-zhi-bu-ltbatoruxing-shi-mian-qiang-hui-mu-hei-yoriai-wokomete|
+|2025/11|雲勉 ライブ配信 LT会 #2|https://speakerdeck.com/komakichi/aws-re-invent-2025-depin-chu-no-sheng-cheng-ai-sabisuwoosarai|
 
 ### その他
 - AWSのパートナー企業若手向けハッカソン Angel Dojo 2023 に参加
